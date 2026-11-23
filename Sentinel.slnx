@@ -3,6 +3,7 @@
     <Project Path="src/Sentinel.Api/Sentinel.Api.csproj" />
     <Project Path="src/Sentinel.Core/Sentinel.Core.csproj" />
     <Project Path="src/Sentinel.Infrastructure/Sentinel.Infrastructure.csproj" />
+    <Project Path="src/Sentinel.Worker/Sentinel.Worker.csproj" />
   </Folder>
   <Folder Name="/tests/">
     <Project Path="tests/Sentinel.IntegrationTests/Sentinel.IntegrationTests.csproj" />
